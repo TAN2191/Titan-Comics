@@ -5,7 +5,7 @@
 #### This is a web based application which let users use Image generation AI in the backend to create comic book pages by passing prompts and sharing/downloading the generated page.
 
 ## Live Demo
-#### This project is deployed on Netlify which you can view at [Titan Comics Website](https://stacklimit-community-qna-platform.onrender.com/).
+#### This project is deployed on Netlify which you can view at [Titan Comics Website](https://titan-comics-4gj1aij54-tan2191.vercel.app/).
 
 ## 🎪 Getting Started
 <ul>
