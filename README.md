@@ -8,4 +8,8 @@
 #### This project is deployed on Netlify which you can view at [Titan Comics Website](https://stacklimit-community-qna-platform.onrender.com/).
 
 ## 🎪 Getting Started
-<ul><li>In the root of project folder run : npm run dev</li><li>Server should have started and headover to "http://localhost:5173" to see the project working live 🙌.</li></ul>
+<ul>
+  <li>In the root of project folder run : npm install</li>
+  <li>In the root of project folder run : npm run dev</li>
+  <li>Server should have started and headover to "http://localhost:5173" to see the project working live 🙌.</li>
+</ul>
